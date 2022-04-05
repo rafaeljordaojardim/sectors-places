@@ -1,0 +1,6 @@
+export * from './createLocationRepo'
+export * from './createSectorRepo'
+export * from './getLocationRepo'
+export * from './getSectorByIdRepo'
+export * from './getSectorByNameRepo'
+export * from './getSectorsRepo'
